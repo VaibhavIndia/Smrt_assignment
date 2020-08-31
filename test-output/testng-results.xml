@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-29T18:45:09 IST" name="Default suite" finished-at="2020-08-29T18:46:29 IST" duration-ms="80287">
+    <groups>
+    </groups>
+    <test started-at="2020-08-29T18:45:09 IST" name="Default test" finished-at="2020-08-29T18:46:29 IST" duration-ms="80287">
+      <class name="com.flk.www.qa.testcases.TestAssignment">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flk.www.qa.testcases.TestAssignment@769e7ee8]" started-at="2020-08-29T18:45:09 IST" name="setUp" finished-at="2020-08-29T18:45:23 IST" duration-ms="13504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Testdata()[pri:0, instance:com.flk.www.qa.testcases.TestAssignment@769e7ee8]" started-at="2020-08-29T18:45:23 IST" name="Testdata" finished-at="2020-08-29T18:46:29 IST" duration-ms="66741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testdata -->
+      </class> <!-- com.flk.www.qa.testcases.TestAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
